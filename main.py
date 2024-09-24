@@ -1,5 +1,5 @@
 letter = '😘'
-text = "(❁´◡`❁)"
+text = "(❁´◡`)"
 total_text = text + ' ' + letter
 
 print("Текстик:", end=' ')
